@@ -1,0 +1,32 @@
+{
+  "name": "hw10_teamBuilder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CLI.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonathynlee/hw10_teamBuilder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonathynlee/hw10_teamBuilder/issues"
+  },
+  "homepage": "https://github.com/Jonathynlee/hw10_teamBuilder#readme",
+  "dependencies": {
+    "inquirer": "^7.0.0",
+    "inquirer-recursive": "0.0.6",
+    "jest": "^24.9.0",
+    "jest-cli": "^24.9.0",
+    "prompt": "^1.0.0",
+    "prompts": "^2.3.0"
+  }
+}
